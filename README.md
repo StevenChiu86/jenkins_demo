@@ -1,2 +1,2 @@
 # jenkins_demo
-practice_ jenkins
+practice jenkins operation
